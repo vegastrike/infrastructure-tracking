@@ -1,7 +1,8 @@
 ===================================
 Vega Strike Infrastructure Tracking
 ===================================
-`Gitter https://badges.gitter.im/vegastrike/infrastructure-admins.svg<https://gitter.im/vegastrike/infrastructure-admins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge>`_
+.. image https://badges.gitter.im/vegastrike/infrastructure-admins.svg
+`Gitter <https://gitter.im/vegastrike/infrastructure-admins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge>`_
 
 This repository is the public interface for the `Vega Strike Infrastructure <https://github.com/vegastrike/infrastructure>`.
 
