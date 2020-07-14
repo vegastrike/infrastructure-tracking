@@ -1,8 +1,7 @@
 ===================================
 Vega Strike Infrastructure Tracking
 ===================================
-.. image https://badges.gitter.im/vegastrike/infrastructure-admins.svg
-`Gitter <https://gitter.im/vegastrike/infrastructure-admins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge>`_
+|gitter| `Gitter <https://gitter.im/vegastrike/infrastructure-admins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge>`_
 
 This repository is the public interface for the `Vega Strike Infrastructure <https://github.com/vegastrike/infrastructure>`.
 
@@ -39,3 +38,5 @@ Issues
 
 Issues in this repository will operate as a place for public discussion of anything related to infrastructure that does not have an already existing place.
 For instance, things related to `vegastrike.github.io` should be recorded at `https://github.com/vegastrike/vegastrike.github.io`.
+
+.. |gitter| image:: https://badges.gitter.im/vegastrike/infrastructure-admins.svg
